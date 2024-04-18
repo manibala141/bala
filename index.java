@@ -34,4 +34,11 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+} 
+"This is my 2nd commit "
+1
+2
+32
+2
+
+
